@@ -33,7 +33,7 @@ My GitHub page is http://github.com/Katia-maldonado
 
     Lab 8, part 1: I liked this lab because we had to count the arguments
     for sandwiches. The code prompted the user to input their choice of protein,
-    bread, and condiment. If there were not three arguments inputted then the user
-    was prompted on the screen to input their three arguments again. I also like
-    when we have to prompt the user with inputs. Lastly, at the end after the code
-    is ran it prints out the ingredients that are in the sandwich.
+    bread, and condiment which I enjoyed. If there were not three arguments
+    inputted then the user was prompted on the screen to input their three
+    arguments again. Lastly, at the end after the code is ran it prints out
+    the ingredients that are in the sandwich.

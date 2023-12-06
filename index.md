@@ -1,6 +1,6 @@
 # Katia Maldonado's Portfolio
 
-This is my home page! My name is Your Katia Maldonado and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is mechanical engineering with a minor in computer science. I plan on graduating in Spring of 2026.
+This is my home page! My name is Katia Maldonado and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is mechanical engineering with a minor in computer science. I plan on graduating in Spring of 2026.
 
 ## Computer Science Projects
 
